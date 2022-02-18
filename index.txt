@@ -1,2 +1,10 @@
-<h1>site under construction...</h1>
-<p> test </p>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <title> Jack McGrady
+    <meta charset="utf-8">
+  </head>
+  
+  
+  
+</html>
